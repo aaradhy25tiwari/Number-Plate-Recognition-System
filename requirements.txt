@@ -1,0 +1,11 @@
+opencv-python
+numpy
+pandas
+imutils
+pytesseract
+easyocr
+matplotlib
+scikit-image
+torch
+torchvision
+ultralytics
